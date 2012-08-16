@@ -1,0 +1,28 @@
+[
+    {
+        "caption": "Tools",
+        "mnemonic": "n",
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "eZ Publish",
+                "children":
+                [
+                    {
+                        "command": "insert_attribute",
+                        "caption": "Insert attribute"
+                    },
+                    {
+                        "command": "create_override",
+                        "caption": "Create override"
+                    },
+                    {
+                        "command": "translate_strings",
+                        "caption": "Translate strings"
+                    }
+                ]
+            }
+        ]
+    }
+]

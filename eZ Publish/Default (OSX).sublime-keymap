@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+i"], "command": "insert_attribute" }, 
+	{ "keys": ["ctrl+o"], "command": "create_override" },
+	{ "keys": ["ctrl+j"], "command": "translate_strings" }
+]
