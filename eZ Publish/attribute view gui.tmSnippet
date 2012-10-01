@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{attribute_view_gui attribute=$${1:attribute} ${0:&lt;additional arguments...&gt;}}</string>
+	<string>{attribute_view_gui attribute=\$${1:attribute} ${0:&lt;additional arguments...&gt;}}</string>
 	<key>name</key>
 	<string>attribute view gui</string>
 	<key>tabTrigger</key>
